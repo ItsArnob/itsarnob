@@ -34,7 +34,7 @@ jobs:
 
         with:
 
-          userid: '1770477-11f2c21d'                          # your user id, see setup on how to obtain
+          userid: 1770477                          # your user id, see setup on how to obtain
 
           session: ${{ secrets.AOC_SESSION }}    # secret containing session code, see setup on how to obtain
 
