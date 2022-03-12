@@ -1,6 +1,6 @@
 # Hey there, I'm Arnob!
 
-✨ **Maker of things, liker of programming, music and *maybe* physics.** ✨
+✨ **Maker of things, liker of programming, music and *maybe* chemistry.** ✨
 
 ### About me 
   - 🙋 Goes by He/Him
