@@ -5,7 +5,7 @@
 ### About me 
   - 🙋 Goes by He/Him
   - 🎓 Knows JavaScript, HTML, CSS, a little bit of TypeScript and Python
-  - 📚 Is currently learning nestJS and react/nextJS
+  - 📚 Is currently learning nestJS, kotlin and flutter
   - 💻 Has a website: https://itsarnob.github.io
   - 📧 Can be contacted via email: itsarnob@protonmail.com
 ---
