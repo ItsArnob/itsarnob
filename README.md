@@ -1,11 +1,11 @@
 # Hey there, I'm Arnob!
 
-✨ **Maker of things, liker of programming, music and *maybe* chemistry.** ✨
+✨ **Maker of things, liker of programming, music and *maybe* physics.** ✨
 
 ### About me 
   - 🙋 Goes by He/Him
   - 🎓 Knows JavaScript, HTML, CSS, TypeScript and a little bit of Python
-  - 📚 Is currently learning NestJS, Kotlin and Flutter
+  - 📚 Is currently learning NestJS, Kotlin, Go and Flutter
   - 💻 Has a website: https://itsarnob.github.io
   - 📧 Can be contacted via email: itsarnob@protonmail.com
 ---
