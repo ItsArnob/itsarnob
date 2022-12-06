@@ -10,9 +10,9 @@
   - 📧 Can be contacted via email: itsarnob@protonmail.com
 ---
 ### Advent of Code badges 😎
-![](https://img.shields.io/badge/current%20day%20📅-5-7C3AED)
-![](https://img.shields.io/badge/stars%20⭐-8-F59E0B)
-![](https://img.shields.io/badge/days%20completed%20✅-4-DB2777)
+![](https://img.shields.io/badge/current%20day%20📅-6-7C3AED)
+![](https://img.shields.io/badge/stars%20⭐-12-F59E0B)
+![](https://img.shields.io/badge/days%20completed%20✅-6-DB2777)
 ### Some stats
 ![](https://github-readme-stats.vercel.app/api?username=itsarnob&count_private=true&show_icons=true&theme=nord&hide_border=true)
 
