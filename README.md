@@ -5,7 +5,7 @@
 ### About me 
   - 🙋 Goes by He/Him
   - 🎓 Knows JavaScript, HTML, CSS, TypeScript and a little bit of Python
-  - 📚 Is currently learning NestJS, Rust, C++ and Flutter
+  - 📚 Is currently learning Rust, Go and Jetpack Compose
   - 💻 Has a website: https://itsarnob.github.io
   - 📧 Can be contacted via email: itsarnob@protonmail.com
 ---
