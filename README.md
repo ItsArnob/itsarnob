@@ -10,7 +10,7 @@
   - 📧 Can be contacted via email: itsarnob@protonmail.com
 ---
 ### Advent of Code badges 😎
-![](https://img.shields.io/badge/current%20day%20📅-22-7C3AED)
+![](https://img.shields.io/badge/current%20day%20📅-23-7C3AED)
 ![](https://img.shields.io/badge/stars%20⭐-2-F59E0B)
 ![](https://img.shields.io/badge/days%20completed%20✅-1-DB2777)
 ### Some stats
